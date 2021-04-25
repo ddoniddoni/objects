@@ -1,4 +1,4 @@
-package com.company.objects.first;
+package com.company.objects.first.previous;
 
 public class Ticket {
     private long fee;
