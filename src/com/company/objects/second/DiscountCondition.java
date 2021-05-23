@@ -6,5 +6,4 @@ package com.company.objects.second;
 
 public interface DiscountCondition {
     boolean isSatisfiedBy(Screening screening);
-
 }
