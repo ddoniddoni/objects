@@ -18,6 +18,7 @@ public class ReservationAgency {
                 break;
             }
         }
+
         Money fee;
         if (discountable) {
             Money discountAmount = Money.ZERO;
